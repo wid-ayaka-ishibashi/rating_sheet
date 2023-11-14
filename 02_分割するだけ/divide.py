@@ -27,4 +27,6 @@ for file in files:
 
         wb.save(divide_after + "\\" + save_file_name + name + ").xlsx")
 
+print("分割が完了しました。")
+
 # %%
