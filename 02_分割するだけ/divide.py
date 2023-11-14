@@ -1,7 +1,7 @@
 # %%
 import os
 import openpyxl as px
-from IPython.display import display
+#from IPython.display import display
 
 divide_pre = "01_分割前"
 divide_after = "02_分割後"
