@@ -1,7 +1,12 @@
 # 無視するファイル
+
 *_評価済み*
 *評価シート*
 *.db*
 *.exe
 sql*
-
+*.xlsx
+*.pptx
+*.pbix
+*.csv
+*.jfif

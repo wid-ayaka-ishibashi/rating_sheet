@@ -24,8 +24,7 @@ df_current.to_sql("History", conn, if_exists="append", index=False)
 
 df_current.to_sql("Current", conn, if_exists="replace", index=False)
 
-
-
+'''
 # 作成したデータベースを1行ずつ見る
 select_sql = """
     SELECT *
@@ -36,6 +35,22 @@ select_sql = """
 
 # DB内の全テーブルをfetchall()を使って、printする。
 cur.execute(select_sql)
+print(cur.fetchall())
+'''
+
+# %%
+cur.execute("DROP VIEW IF EXISTS RadarChart")
+cur.execute("""
+            CREATE VIEW RadarChart AS
+            SELECT *
+            FROM(
+                SELECT *
+                    ,row_number() over (partition by 名前 order by 名前,集計年月 desc) as rank
+                FROM History
+            )
+            WHERE rank <= 2
+            """)
+cur.execute("SELECT * FROM RadarChart")
 print(cur.fetchall())
 
 # %%
