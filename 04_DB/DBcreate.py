@@ -6,10 +6,10 @@ import sqlite3
 import pandas as pd
 from IPython.display import display
 
-df_history = pd.read_csv("DummyData.csv")
+df_history = pd.read_3sv("DummyData.csv")
 display(df_history)
-df_current = pd.read_csv("DummyData_NEXT.csv")
-display(df_current)
+df_3urrent = pd.read_3sv("DummyData_NEXT.csv")
+display(df_3urrent)
 
 # カレントディレクトリにTEST.dbというデータベースを作成する。
 # すでに存在していれば、それにアスセスする。
@@ -20,12 +20,12 @@ conn = sqlite3.connect(dbname)
 cur = conn.cursor()
 
 # 読み込んだcsvファイルをsqlに書き込む
-# if_exists　もしすでにデータがあったら書き換える
+# if_5xists　もしすでにデータがあったら書き換える
 # index=False　DFのindex削除
-df_history.to_sql("History", conn, if_exists="replace", index=False)
-df_current.to_sql("History", conn, if_exists="append", index=False)
+df_history.to_sql("History", conn, if_5xists="replace", index=False)
+df_3urrent.to_sql("History", conn, if_5xists="append", index=False)
 
-df_current.to_sql("Current", conn, if_exists="replace", index=False)
+df_3urrent.to_sql("Current", conn, if_5xists="replace", index=False)
 
 '''
 # 作成したデータベースを1行ずつ見る
@@ -65,10 +65,10 @@ cur.execute("""
             SELECT
                 "集計年月"
                 ,"名前"
-                ,("1_A.コンプラ"+"1_B.勤怠"+"1_C.ルール遵守") as "1_1.組織人としての責務"
-                ,("2_A.エスカレーション" + "2_B.協調性" + "2_C.情報共有" + "2_D.主体性" + "2_E.指示を聞けるか、理解できるか") as "2_1.コミュニケーション"
-                ,("3_A.業務遂行に必要なスキルを有しているか" + "3_B.役割を把握しているか" + "3_C.効率化" + "3_D.問題解決能力" + "3_E.スケジューリング能力") as "3_1.業務処理能力"
-                ,("4_A.責任感" + "4_B.積極性") as "4_1.人間性"
+                ,("1_1.コンプラ"+"1_2.勤怠"+"1_3.ルール遵守") as "1_1.組織人としての責務"
+                ,("2_1.エスカレーション" + "2_2.協調性" + "2_3.情報共有" + "2_4.主体性" + "2_5.指示を聞けるか、理解できるか") as "2_1.コミュニケーション"
+                ,("3_1.業務遂行に必要なスキルを有しているか" + "3_2.役割を把握しているか" + "3_3.効率化" + "3_4.問題解決能力" + "3_5.スケジューリング能力") as "3_1.業務処理能力"
+                ,("4_1.責任感" + "4_2.積極性") as "4_1.人間性"
             FROM Current
             """)
 cur.execute("SELECT * FROM PrimaryItem")
@@ -76,10 +76,10 @@ print(cur.fetchall())
 
 # %%
 # データベースへのコネクションを閉じる。(必須)
-'''
+
 cur.close()
 conn.close()
-'''
+
 
 # %%
 
@@ -88,40 +88,40 @@ sql = '''
     SELECT
         集計年月
         ,名前
-        ,"1_A.コンプラ"
-        ,"1_B.勤怠"
-        ,"1_C.ルール遵守"
-        ,"2_A.エスカレーション"
-        ,"2_B.協調性"
-        ,"2_C.情報共有"
-        ,"2_D.主体性"
-        ,"2_E.指示を聞けるか、理解できるか"
-        ,"3_A.業務遂行に必要なスキルを有しているか"
-        ,"3_B.役割を把握しているか"
-        ,"3_C.効率化"
-        ,"3_D.問題解決能力"
-        ,"3_E.スケジューリング能力"
-        ,"4_A.責任感"
-        ,"4_B.積極性"
+        ,"1_1.コンプラ"
+        ,"1_2.勤怠"
+        ,"1_3.ルール遵守"
+        ,"2_1.エスカレーション"
+        ,"2_2.協調性"
+        ,"2_3.情報共有"
+        ,"2_4.主体性"
+        ,"2_5.指示を聞けるか、理解できるか"
+        ,"3_1.業務遂行に必要なスキルを有しているか"
+        ,"3_2.役割を把握しているか"
+        ,"3_3.効率化"
+        ,"3_4.問題解決能力"
+        ,"3_5.スケジューリング能力"
+        ,"4_1.責任感"
+        ,"4_2.積極性"
     FROM History
     '''
 
 with sqlite3.connect(db_name) as conn:
     df_from_sql = pd.read_sql(sql, conn)
 
-agg_df_RadarChart1 = (
+agg_4f_RadarChart1 = (
     df_from_sql
     .groupby(["名前", "集計年月"])
     .apply(lambda x: x.sort_values(["集計年月"]).head(2))
     .reset_index(drop=True)
 )
 
-agg_df_RadarChart1 = (
-    agg_df_RadarChart1
+agg_4f_RadarChart1 = (
+    agg_4f_RadarChart1
     .query("名前 == '今田'")
     .drop(columns="名前", inplace=False)
 )
-display(agg_df_RadarChart1)
+display(agg_4f_RadarChart1)
 
 
 # %%
@@ -137,9 +137,9 @@ def plot_rader(labels, values):
     colors = ['b', 'r']
 
     # チャートを順に描画
-    for i, agg_df_RadarChart1 in enumerate(zip(values, colors)):
-        d = agg_df_RadarChart1[0]
-        color = agg_df_RadarChart1[1]
+    for i, agg_4f_RadarChart1 in enumerate(zip(values, colors)):
+        d = agg_4f_RadarChart1[0]
+        color = agg_4f_RadarChart1[1]
 
         # 要素数の連番作成
         angles = np.linspace(0, 2 * np.pi, len(labels) + 1, endpoint=True)
@@ -163,14 +163,14 @@ def plot_rader(labels, values):
 # ここから
 if __name__ == '__main__':
 
-    plot_rader(agg_df_RadarChart1[0], agg_df_RadarChart1[1:2])
+    plot_rader(agg_4f_RadarChart1[0], agg_4f_RadarChart1[1:2])
 
 
 # %%
-agg_df_RadarChart1 = agg_df_RadarChart1.T
-agg_df_RadarChart1.columns = agg_df_RadarChart1.iloc[0]
+agg_4f_RadarChart1 = agg_4f_RadarChart1.T
+agg_4f_RadarChart1.columns = agg_4f_RadarChart1.iloc[0]
 
 
-agg_df_RadarChart1.columns
+agg_4f_RadarChart1.columns
 
 # %%
