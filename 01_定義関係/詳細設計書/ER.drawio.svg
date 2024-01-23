@@ -1,0 +1,1354 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1061px" height="1381px" viewBox="-0.5 -0.5 1061 1381" content="&lt;mxfile&gt;&lt;diagram id=&quot;yOL3-SLM7QWf7UIul4hT&quot; name=&quot;ページ1&quot;&gt;7Z1bc6O4EoB/DVW7Lykw90ewnTkPydbWZLbO7FMK29imhkAOJpNkfv1RCwkD0sTYsWWcdJKqCCFu0ker1a1Gmjl+ePlSRI/r23wRp9pIX7xo5kQbjQzdM8k/yHmtclzXrzJWRbJghbYZd8mvmB/Jcp+SRbxpFSzzPC2Tx3bmPM+yeF628qKiyJ/bxZZ52r7qY7SKhYy7eZSKuf9NFuWa5Y50fbvjP3GyWvNL+yO2ZxbNf6yK/CljF9RG5jX9qXY/RPxkrPxmHS3y50aWOdXMcZHnZZV6eBnHKVQur7fquOvf7K1vvIizstcBhsNupHzlTx8vSGWwzTid5c/TbUa4Lh9Skm+Q5KaMijKA6iYZ0695FvPM6ySFQjrZjrPFtsivuMi/5bdR9lrtaZSjdRYv2Jb4GOzJNvlTMeet5I0YG1Gxilk5z6vy4CEaR7Kn/xLnD3FZvJICRZxGZfKz3eIRA2dVl9vWHUmw6pNXJavIn1H6xE46udOmjuZPtNDQppYWBlow1qamRl6PwGCJ0GQJX+c5vIw/pYmRFvo8cS001uY5eUgjWvXLPCt5u0ElztdJuriJXvMnqBvSMPMffCtc50Xyi5SPWo3J3kRTb5W4gyN5M8UbUuZv3jBGJ+s2emkVvIk2Jb+bPE2jx00yo/cHBz6QZkuyMC/L/IEVel4nZXz3GNEmfibCpUMce1jgZpyneUHyF/EyekrhmZaNXPLeLZexM5/TRyvyH3Fjz8L1Z/qbmP2MizJ+eZMfttdjLzKTdBbbfG6IDV5k3ZQYXADIiGMX+0pEW5StSH3VV7PaV7MlV7MkVzM7F4vSMi6yqIxDeOs2AuX1Y/YCv34PG+hrUxuI9iaQ8HyauAa0/eDb9Ps3UjgjIm6k//XPzY3ANKn6UtZuDv2RtLQNvyQ/SpNVRvLSeAkngFZMiFQPWPZDslhQIbYhhCXZ6oYWm1jbnK+sziArJ4cvUyq51uTAmJwhfMyTrKSVaIfkj1TrWL+yNZvcxZhsG9tt8gfFi3KcZ+RBooQSFpP34TmGd4IIvDIqo1n9tu5AH17uxiNXPzXCAq9tqh05wq9tOnYx26XoECFpGIaElUq42VzuOW0BaB5Ezwdm4TcN3EtssTZ3VLa57ottPnKozCZ1nbWaz/nfE+g+0F0A6wH01KvZH1C7GtW/6L8/aS3wsiS1ov+htx1r5Dkg4Whh1aUaWjC9m95RSUT+vA5L1Y2Qh6juhZ3qJPfHTjorujnC1ZHp/Zn2FTJtexIx5mmBr/k21fWmVMUjuDkAHUkEU6LH3TNZF4RcDxx39UCuwH5WHW+RFETvSfKM4dRQ+26SjJ93lUabjXTo0NENFlHsLaVaoDP34tnyOFqg6exUAy1dgqLjHKQGdi9XD0zPqwjayuT8PsrlXhIWdc7eOmfzhanFYW9hLVE6pW/IMYS1Y0qEtUPJ0QEhUoegarYQwg74gEaVaJWna1TZoJN0vyF0udAVe1TVs8F6ElpcNewqf3sPQ7PKzNWUBiwL2dhXOzsdG5bAhnFvXPGBpinY3lyujvk1H3/9cxtOvyIh6gipbWJKELEliIyuqEYRagEVGKR3CHQE4nxASOybpwNCtN8b9+YVFwxh1zoPOT4YF0I+vGt0LsiKclY8layIo//Rtn8hmkfHbyMZ7o95mbrrcRu9EmJ0JoxqF7QSjMTx8oj3QRPNt6gaG4DXj3VGLpJxPjL62nSOQYarS8iAzsihJsKqx9GpX5katSFRDXBQgT0jIq5KRERH2ujeuqLGZ08LQ5ogUsRE4XF+MkyJgfZ0ZIiWkdG9XQkPIiEIBy4McMKAqSA+dV14Bve3koTBdnkhy2EJHdLkcLC+VlYWciqTe9lcXngiOxzhOxd8Km2trmh6Malq7GgB6bMmbIDt+2z05FV+MwPQZBhR+z5ReqCbI7scyly1KxA060l7gFbRXHeFFc2cy8DhOFoI6JAAVWk3dkXDj8mUbtJdAljUpxSOWjx5AfxB4prP3UOwhg+WSqOzKxqQTKqz24AOgOVq3pT2vzZIO5jmhGSciQxLpa3ZdSVkWJQM3waJQrpC1gPWGpUDYzpQ0TxqE5owjHwUJ2eERqU92hVtjCbV4jtTwrmqHnpcE+LzKLem6qDt8BrRmXEI1nDAUmm8dkWro0U1dA+UHrBQW2A+COl0SqLQ+NdIxtnIsFXao11xnoxFVWMXHOMwqqeDOHB4oUnp7GSotEdz+bRjumt7VASCox4VeTCoCpo5Lu/Hesy7QmaOw4xKA7Uni/RwwK1VDbJ9hw+XDWoOoomQJ0DaICFnmMGnkhDRUM2UD7C12CBVWlZBatYDqVLtsvcww/i1kbo7AxBxOiVOKk3Pni20ZjOUmdTMOl/lWZT+Jp65b6gyqY/i9Xtz41/YuLL55uSluXPyyrdekvI7vxZJN44iW9uDYIMf045t6BVxLbZb39hpPn//eLHT7NC/AWKtDl/oBs3Wcaz8FNVNsaM6AOwbmyrRXLqUtCv5XRHuVZE2L70ahIf9NNvDMK1jN0jvd0k0WfWMb6KTEQI6RAgmMPO6W9sYzXR4NFNsLOzYFfonssd3XDNy3qLt8Ggmt69/5sBwpk5U+0CimTxJiB9GM12uPtM/mqkWfoOMZvIkUXYKAl+QnpPRo9L97Uv0IYyF2zn02b9RVbqefdHUgvFOgydEabyTL9paMN5paECo9C/7orMH450uiBWVLmNfnNSJ8U4fAiOl8U6+OPUS450GS4ZK/7Ivzp3EeKfhI6LSneyLFmmMdxoqGUrjnXxZNDbGO31e+FRaY33RGovxTgjo24CqNPga/MQY8PQJyFJpdTZ00eyMEU9DRUNpxJOhi+ZmDHm6RGpUmqQNXbRJY8zTRyVLpQHb0EULNgY9DRUNpUFPhi5apTHqabBoqLRKG7polsawpwuERqWd2tBlU6cx7mnYiCiNezJ02eohGPj0kXhSaYM2jHdEawQW1Wh88K/CPheGRcEUV6rZyck2UqMbw3GWNWi8ThiFRFMypQS+FbTRG8GRaAvEaIkLFoL957tvpc97wiXkaB6FTNEUiTPed/d5BzSrxK11umaVLOCA678MmQ6Ja+qEL71kdjM16YQ2G4UTLGDGIZ0XwqaGGHwqq0y1JhrT1lhY+/QpTIwznfo1avKqXTg/7YzIySIsTsic6Gg/AXN/GHR5U1DgbSrwAs2b/omUHURZO9i6qcIfhz+J9+yE/Elm6QsxYMw62XCZeXwmUVivSd9jsj7KvMujUeJxOyGNkvm6x6cRpeHl8CeLNTkhf5Lvp0qnZdowQQm63MY0X+ksARR5l4dcbyPYUZCTzAU+EDmUaxcEmcS9eDrITHGUwaJgqjGFDw5GMQoGhdfFcSULojkhV6IB/02uUEJdEElKDe6mbLn1d3sj8btyB/ke1Xwxrut7lH0x7oTOR1O0fKDz8YLF4R7Ox1rYDNP5KFlVGj/Wdtn8KPVymjIvJzqvtV2+ov2bVal70pQsNo/uyc+GnFr3pCka5NE9OWzK9hoWHsCfUvekKflMB7onkcbzuCdN0VaP7slPzZ9a9yQ3mKB78jMjp9Q9aUk+14HuyY8PmVL3pDUSIEP35IfkSq170pKsTYruyQ9CklKTvCVZP6Xb9ENYEYyvxtZaEYwXVL8iWG0seKvemuvtxeksf24utTeESpUus+Z4Z6tU5+DIXRe+fgRKWvWV0/qTkQb6yi/LV270NnzUw4X3IYfrmn2oznkPZ6cz7EhdV9LDoLP8ovlRGxIsWxkPneXaLs/l/s2q1FnuyhaS/+1UQQzwPhcUat3ZrmyWaW1CQipUD/sP4EWp+9mVzaTaPdJCcAYIjlJPsSuZXCwBp/vRPrQwDoiYU/p2yWaRw8i33veFPN76Nl/EUOL/&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <path d="M 180 45 L 230 45 L 230 765 L 264.5 765" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 184 41 L 184 49" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="268" cy="765" rx="3" ry="3" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 280 761 L 272 765 L 280 769 M 272 765 L 280 765" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 30 L 0 0 L 180 0 L 180 30" fill="#ffe6cc" stroke="#d79b00" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 30 L 0 120 L 180 120 L 180 30" fill="rgb(255, 255, 255)" stroke="#d79b00" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 30 L 180 30" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 15px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                DS東京メンバーマスタ
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    DS東京メンバーマスタ
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="30" width="180" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 170px; height: 1px; padding-top: 45px; margin-left: 6px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                名前：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="6" y="49" fill="#333333" font-family="Helvetica" font-size="12px">
+                    名前：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="60" width="180" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 170px; height: 1px; padding-top: 75px; margin-left: 6px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                サブマネ：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="6" y="79" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    サブマネ：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="90" width="180" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 170px; height: 1px; padding-top: 105px; margin-left: 6px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="color: rgb(0, 0, 0);">
+                                    最新のSES先：TEXT
+                                </span>
+                                <span style="color: rgb(0, 0, 0);">
+                                    <br/>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="6" y="109" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    最新のSES先：TEXT
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 30 L 280 0 L 680 0 L 680 30" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 280 30 L 280 660 L 680 660 L 680 30" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 30 L 680 30" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 398px; height: 1px; padding-top: 15px; margin-left: 281px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価内容_カレント
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="480" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    評価内容_カレント
+                </text>
+            </switch>
+        </g>
+        <rect x="280" y="30" width="400" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 45px; margin-left: 286px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span style="color: rgb(0, 0, 0);">
+                                    名前：TEXT not NULL
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="49" fill="#333333" font-family="Helvetica" font-size="12px">
+                    名前：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 75px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                所属：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="79" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    所属：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 105px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                集計年月：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="109" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    集計年月：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 135px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1_1.コンプラ：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="139" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1_1.コンプラ：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 165px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1_2.勤怠：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="169" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1_2.勤怠：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 195px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1_3.ルール遵守：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="199" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1_3.ルール遵守：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 225px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_1.エスカレーション：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="229" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_1.エスカレーション：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 255px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_2.協調性：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="259" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_2.協調性：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 285px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_3.情報共有：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="289" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_3.情報共有：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 315px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_4.主体性：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="319" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_4.主体性：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 345px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_5.指示を聞けるか、理解できるか：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="349" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_5.指示を聞けるか、理解できるか：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 375px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_1.業務遂行に必要なスキルを有しているか：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="379" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_1.業務遂行に必要なスキルを有しているか：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 405px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_2.役割を把握しているか：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="409" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_2.役割を把握しているか：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 435px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_3.効率化：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="439" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_3.効率化：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 465px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_4.問題解決能力：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="469" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_4.問題解決能力：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 495px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_5.スケジューリング能力：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="499" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_5.スケジューリング能力：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 525px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4_1.責任感：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="529" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4_1.責任感：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 555px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4_2.積極性：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="559" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4_2.積極性：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 585px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価したい良い点：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="589" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    評価したい良い点：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 615px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                改善すべき点：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="619" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    改善すべき点：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 645px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                今後に期待していること：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="649" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    今後に期待していること：TEXT
+                </text>
+            </switch>
+        </g>
+        <path d="M 180 45 L 264.5 45" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 184 41 L 184 49" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="268" cy="45" rx="3" ry="3" fill="none" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <path d="M 280 41 L 272 45 L 280 49 M 272 45 L 280 45" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 680 765 L 760 765" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 684 761 L 684 769" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 756 769 L 756 761" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 750 L 280 720 L 680 720 L 680 750" fill="#e1d5e7" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 750 L 280 1380 L 680 1380 L 680 750" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 750 L 680 750" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 398px; height: 1px; padding-top: 735px; margin-left: 281px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価内容_履歴
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="480" y="739" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    評価内容_履歴
+                </text>
+            </switch>
+        </g>
+        <rect x="280" y="750" width="400" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 765px; margin-left: 286px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span style="color: rgb(0, 0, 0);">
+                                    名前：TEXT not NULL
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="769" fill="#333333" font-family="Helvetica" font-size="12px">
+                    名前：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <rect x="280" y="780" width="400" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 795px; margin-left: 286px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                集計年月：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="799" fill="#333333" font-family="Helvetica" font-size="12px">
+                    集計年月：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 825px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                所属：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="829" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    所属：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 855px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1_1.コンプラ：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="859" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1_1.コンプラ：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 885px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1_2.勤怠：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="889" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1_2.勤怠：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 915px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1_3.ルール遵守：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="919" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1_3.ルール遵守：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 945px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_1.エスカレーション：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="949" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_1.エスカレーション：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 975px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_2.協調性：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="979" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_2.協調性：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1005px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_3.情報共有：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1009" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_3.情報共有：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1035px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_4.主体性：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1039" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_4.主体性：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1065px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2_5.指示を聞けるか、理解できるか：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1069" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2_5.指示を聞けるか、理解できるか：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1095px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_1.業務遂行に必要なスキルを有しているか：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1099" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_1.業務遂行に必要なスキルを有しているか：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1125px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_2.役割を把握しているか：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1129" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_2.役割を把握しているか：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1155px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_3.効率化：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1159" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_3.効率化：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1185px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_4.問題解決能力：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1189" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_4.問題解決能力：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1215px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3_5.スケジューリング能力：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1219" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3_5.スケジューリング能力：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1245px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4_1.責任感：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1249" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4_1.責任感：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1275px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4_2.積極性：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1279" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4_2.積極性：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1305px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価したい良い点：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1309" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    評価したい良い点：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1335px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                改善すべき点：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1339" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    改善すべき点：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 390px; height: 1px; padding-top: 1365px; margin-left: 286px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                今後に期待していること：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="286" y="1369" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    今後に期待していること：TEXT
+                </text>
+            </switch>
+        </g>
+        <path d="M 1060 30 L 1060 13.5 Q 1060 0 1046.5 0 L 773.5 0 Q 760 0 760 13.5 L 760 30" fill="#dae8fc" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 760 30 L 760 346.5 Q 760 360 773.5 360 L 1046.5 360 Q 1060 360 1060 346.5 L 1060 30" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 760 30 L 1060 30" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 298px; height: 1px; padding-top: 15px; margin-left: 761px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価内容_大項目_カレント
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="910" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    評価内容_大項目_カレント
+                </text>
+            </switch>
+        </g>
+        <rect x="760" y="30" width="300" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 45px; margin-left: 766px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span style="color: rgb(0, 0, 0);">
+                                    名前：TEXT not NULL
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="49" fill="#333333" font-family="Helvetica" font-size="12px">
+                    名前：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 75px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                所属：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="79" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    所属：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 105px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                集計年月：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="109" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    集計年月：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 135px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.組織人としての責務（小計）：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="139" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.組織人としての責務（小計）：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 165px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.組織人としての責務(10段階)：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="169" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.組織人としての責務(10段階)：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 195px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.コミュニケーション（小計）：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="199" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.コミュニケーション（小計）：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 225px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.コミュニケーション(10段階)：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="229" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.コミュニケーション(10段階)：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 255px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.業務処理能力（小計）：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="259" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.業務処理能力（小計）：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 285px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.業務処理能力(10段階)：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="289" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.業務処理能力(10段階)：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 315px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4.人間性（小計）：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="319" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4.人間性（小計）：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 345px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4.人間性(10段階)：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="349" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4.人間性(10段階)：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <path d="M 1060 750 L 1060 733.5 Q 1060 720 1046.5 720 L 773.5 720 Q 760 720 760 733.5 L 760 750" fill="#e1d5e7" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 760 750 L 760 1066.5 Q 760 1080 773.5 1080 L 1046.5 1080 Q 1060 1080 1060 1066.5 L 1060 750" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 760 750 L 1060 750" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 298px; height: 1px; padding-top: 735px; margin-left: 761px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価内容_大項目_履歴
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="910" y="739" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    評価内容_大項目_履歴
+                </text>
+            </switch>
+        </g>
+        <rect x="760" y="750" width="300" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 765px; margin-left: 766px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span style="color: rgb(0, 0, 0);">
+                                    名前：TEXT not NULL
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="769" fill="#333333" font-family="Helvetica" font-size="12px">
+                    名前：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <rect x="760" y="780" width="300" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 795px; margin-left: 766px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                集計年月：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="799" fill="#333333" font-family="Helvetica" font-size="12px">
+                    集計年月：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 825px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                所属：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="829" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    所属：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 855px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.組織人としての責務（小計）：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="859" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.組織人としての責務（小計）：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 885px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.組織人としての責務(10段階)：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="889" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.組織人としての責務(10段階)：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 915px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.コミュニケーション（小計）：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="919" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.コミュニケーション（小計）：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 945px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.コミュニケーション(10段階)：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="949" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.コミュニケーション(10段階)：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 975px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.業務処理能力（小計）：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="979" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.業務処理能力（小計）：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1005px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.業務処理能力(10段階)：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1009" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.業務処理能力(10段階)：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1035px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4.人間性（小計）：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1039" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4.人間性（小計）：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1065px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4.人間性(10段階)：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1069" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4.人間性(10段階)：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+        <path d="M 680 45 L 760 45" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 684 41 L 684 49" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 756 49 L 756 41" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 680 765 L 720 765 L 720 1185 L 760 1185" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 684 761 L 684 769" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 756 1189 L 756 1181" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1060 1170 L 1060 1153.5 Q 1060 1140 1046.5 1140 L 773.5 1140 Q 760 1140 760 1153.5 L 760 1170" fill="#e1d5e7" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 760 1170 L 760 1366.5 Q 760 1380 773.5 1380 L 1046.5 1380 Q 1060 1380 1060 1366.5 L 1060 1170" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 760 1170 L 1060 1170" fill="none" stroke="#9673a6" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 298px; height: 1px; padding-top: 1155px; margin-left: 761px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価内容_縦持ち_履歴
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="910" y="1159" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    評価内容_縦持ち_履歴
+                </text>
+            </switch>
+        </g>
+        <rect x="760" y="1170" width="300" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1185px; margin-left: 766px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span style="color: rgb(0, 0, 0);">
+                                    名前：TEXT not NULL
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1189" fill="#333333" font-family="Helvetica" font-size="12px">
+                    名前：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <rect x="760" y="1200" width="300" height="30" fill="#f5f5f5" stroke="#666666" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1215px; margin-left: 766px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                集計年月：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1219" fill="#333333" font-family="Helvetica" font-size="12px">
+                    集計年月：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1245px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                所属：TEXT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1249" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    所属：TEXT
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1275px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                大項目：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1279" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    大項目：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1305px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                小項目：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1309" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    小項目：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1335px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価内容：TEXT not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1339" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    評価内容：TEXT not NULL
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 290px; height: 1px; padding-top: 1365px; margin-left: 766px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 26px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                評価点：NUMBER not NULL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="766" y="1369" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    評価点：NUMBER not NULL
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
